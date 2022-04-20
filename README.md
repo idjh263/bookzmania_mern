@@ -26,6 +26,7 @@
    2. npm install or npm i - to download the dependencies 
    3. npm run develop on root file to deploy application in the terminal 
 
+<img width="400" alt="bookzmania" src="https://user-images.githubusercontent.com/92761848/164333996-4e77240b-0001-4763-9f0d-2898da87e01d.png">
 
 
 
